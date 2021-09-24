@@ -1,4 +1,4 @@
-# steam-salien-cheat
+# steam-salien
 Simulates the playing of the "Summer Saliens" game on steam. Automatically chooses a planet/zone that will give you the max exp. Will switch between planets/zones once they're completed.
 
 Instructions for Heroku (run in the cloud 24/7 for free): [Heroku Setup on Wiki](https://github.com/nathan78906/steam-salien-cheat/wiki/Heroku-Setup)
